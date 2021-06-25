@@ -1,0 +1,14 @@
+{
+  "name": "jhmachining",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "watch": "npx tailwindcss -i src/tailwind.css -o tailwind.css -w"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "autoprefixer": "^10.2.6"
+  }
+}
